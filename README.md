@@ -7,7 +7,13 @@ In this repository there are 3 static visualizations that presented the impact o
 3. The third graph shows the allocation of newly formed companies in 10 areas the months without and during lockdowns in the period 2018-2021. 
 
 ## Dataset
+
 The data repository of Companies House provides a Free Company Data Product which is a downloadable data snapshot containing basic company data of live companies on the register. You can access this site [here](http://download.companieshouse.gov.uk/en_output.html).
 
 The dataset was downloaded in CSV format on 01/11/2021.
 
+## Main python libraries used
+
+1.	Pandas for data importing and cleaning 
+2.	Numpy for data aggregation 
+3.	Matplotlib’s pyplot for static plots 
