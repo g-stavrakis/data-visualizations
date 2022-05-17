@@ -1,4 +1,4 @@
-## About these project
+## About this project
 
 In this repository there are 3 static visualizations that presented the impact of the pandemic on business foundation patterns. More specifically, the analysis examines the effects of the 3 lockdowns on companies incorporated in United Kingdom. 
 
