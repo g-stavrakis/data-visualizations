@@ -38,6 +38,14 @@ The second graph displays the effect of the lockdowns in the 22 sectors in UK. I
 
 Based on graph, the first month of Covid-19 affected the majority of the sectors probably due to the uncertainty regarding the virous. However the next 2 months all the sectors increased leading to the highest percentage changes in these 4 years. The opposite effect seems to appeared on the second lockdown which leads in a drop of all sectors, and despite the percentage increases of the first months of 2021, the majority of the sectors experience a recession.
 
+### 3rd Graph
+
+The third graph shows the allocation of newly formed companies in 10 areas the months without and during lockdowns in the period 2018-2021.
+
+<img src="Third_Graph.jpg">
+
+The allocation of new companies in this 10 areas seems not to be affected by the pandemic. The inner and outer London concentrates the majority of the companies in both periods with slight decrease in the percentage of companies formed in Manchester along with slight increase in Yorkshire region.
+
 ## Conclusion
 
 Based on the above graphs, the pandemic seems not to affect much the foundation patterns of companies in the UK . A small sock appears in the first month of the pandemic due to uncertainty of the situation, affecting both the Number of companies incorporated and the majority of the business sectors. However the economy seems to bounce back and continues it’s same trend the following months.
